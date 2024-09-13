@@ -54,3 +54,11 @@ The design and development of the BCM draw from multiple research sources, inclu
 
 ### **7. Conclusion:**
 The Beach Cleaning Machine is a robust, environmentally friendly, and innovative solution to the global issue of beach pollution. It integrates advanced technologies like AI and ultrasonic sensors to improve efficiency and minimize manual effort. With increasing public awareness and technical improvements, it has the potential to become a widely accepted tool in maintaining clean beaches while preserving marine life.
+
+
+
+For my Reference :
+
+https://www.researchgate.net/figure/A-visual-representation-of-the-literature-review-process-and-findings_fig3_372444497
+
+https://powerslides.com/powerpoint-business/project-management-templates/risk-mitigation-strategies/
